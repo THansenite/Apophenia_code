@@ -7,7 +7,7 @@ using HtmlAgilityPack;
 
 namespace ApopheniaScraper.Parsers
 {
-    class StatSheetParser
+    public class StatSheetParser
     {
         public void ParseSheetData(string scrapedText)
         {
